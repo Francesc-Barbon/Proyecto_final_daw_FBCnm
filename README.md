@@ -32,6 +32,8 @@ Tecnologías Utilizadas
 *   **Blade (Laravel Views)**: Sistema de plantillas para la generación dinámica de vistas.
     
 *   **Eloquent ORM**: Manejo de la base de datos de forma eficiente con Laravel.
+
+*   **Docker**: Contenedores para el despliegue de la aplicación de manera eficiente y escalable.
     
 
 Estructura de la Base de Datos
